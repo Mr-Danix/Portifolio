@@ -1,6 +1,4 @@
 # Portifolio
-# My Portfolio 💼
-
 Personal portfolio website showcasing my projects and skills.
 
 ## 🌍 Live Demo
