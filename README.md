@@ -4,7 +4,7 @@
 Personal portfolio website showcasing my projects and skills.
 
 ## 🌍 Live Demo
-https://mr-danix.github.io/Portfolio/
+https://mr-danix.github.io/Portifolio/
 
 ## 🚀 Features
 - About Me section
